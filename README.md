@@ -27,3 +27,6 @@
    Sales Channels: Amazon, Flipkart, Myntra (80% of total sales).
 
    Highest-Selling Categories: Product categories driving the most sales.
+
+   ![Dashboard](https://github.com/user-attachments/assets/5b5ac469-5fec-47ee-9a42-1f70ae73bb26)
+
